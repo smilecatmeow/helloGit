@@ -6,5 +6,6 @@ public class HelloGit {
         System.out.println("update 1");
         System.out.println("create branch");
         System.out.println("create main");
+        System.out.println("online update");
     }
 }
